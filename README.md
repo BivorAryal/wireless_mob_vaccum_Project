@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "# wireless_mob_vaccum_Project" 
+=======
+"# "# wireless_mob_vaccum_Project" 
+>>>>>>> 3c0c1357f3e43c46323c2f19d541bdcd30af9b16
 Create a New Folder for the Project:
 Organize the Folder Structure:
 
@@ -28,3 +32,7 @@ src
     ├── vacuum.py       # Code for vacuum function
     ├── battery.py      # Code for battery monitoring
     └── sensor.py       # Code for obstacle detection
+<<<<<<< HEAD
+=======
+" 
+>>>>>>> 3c0c1357f3e43c46323c2f19d541bdcd30af9b16
